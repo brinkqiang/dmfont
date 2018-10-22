@@ -6,7 +6,7 @@
 #
 
 # - clone code
-# git clone https://github.com/brinkqiang/ttf.git
+# git clone https://github.com/brinkqiang/dmfont.git
 # pushd ttf
 # git submodule update --init --recursive
 #
